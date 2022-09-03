@@ -1,0 +1,7 @@
+age=input("Enter your age : ")
+age=int=(age)
+shamsiyear=input("Enter shamsiyear :")
+shamsiyear=int(shamsiyear)
+meladyyear=input("Enter meladyyear :")
+meladyyear=int(meladyyear)
+print("yourshamsiyearage is :     and your meladyyearage is:     ")
