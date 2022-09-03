@@ -1,0 +1,10 @@
+print("hi")
+name=input("Enter your name : ")
+name=int(name)
+print=("hello,name")
+yourbirthyear =input("Enter yourbirthyear :")
+yourbirthyear=int(yourbirthyear)
+thisyear=input("Enter thisyear:  ")
+thisyear=int(thisyear)
+age=thisyear-yourbirthyear
+print("you have , age years old,name")
